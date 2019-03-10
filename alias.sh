@@ -1,0 +1,5 @@
+alias nanobash="nano /home/georg/.bashrc"
+alias srcbash="source /home/georg/.bashrc"
+alias jca="javac *.java"
+alias jcad="javac *.java -d ."
+alias cdin="cd /mnt/c/in1010"
